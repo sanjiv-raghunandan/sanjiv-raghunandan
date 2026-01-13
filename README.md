@@ -54,7 +54,3 @@ Final year Computer Science student specializing in software development, artifi
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjiv-raghunandan&show_icons=true&theme=minimal&hide_border=true&count_private=true" alt="stats graph" />
-</div>
