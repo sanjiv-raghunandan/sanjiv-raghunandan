@@ -37,7 +37,7 @@ Final year Computer Science student specializing in software development, artifi
 | **[MedChain](YOUR_REPO_LINK)** | Decentralized medical record management system with role-based access control on the Sepolia testnet. | Solidity, React, IPFS |
 
 <p align="center">
-  <b>Check out more of my projects below </b>
+  <b>Check out more of my projects below 👇</b>
 </p>
 
 ---
