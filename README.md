@@ -36,6 +36,10 @@ Final year Computer Science student specializing in software development, artifi
 | **[Plag Detect](YOUR_REPO_LINK)** | A plagiarism detection system analyzing code similarity across 1000+ files using JPlag and MVC architecture. | Java, JavaFX, Gradle |
 | **[MedChain](YOUR_REPO_LINK)** | Decentralized medical record management system with role-based access control on the Sepolia testnet. | Solidity, React, IPFS |
 
+<p align="center">
+  <b>Check out more of my projects below 👇</b>
+</p>
+
 ---
 
 ### 🛠️ Languages & Tools
@@ -52,5 +56,5 @@ Final year Computer Science student specializing in software development, artifi
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjjv-raghunandan&show_icons=true&theme=minimal&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjiv-raghunandan&show_icons=true&theme=minimal&hide_border=true" height="150" alt="stats graph" />
 </div>
