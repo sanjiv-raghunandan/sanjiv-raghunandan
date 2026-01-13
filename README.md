@@ -37,7 +37,7 @@ Final year Computer Science student specializing in software development, artifi
 | **[MedChain](YOUR_REPO_LINK)** | Decentralized medical record management system with role-based access control on the Sepolia testnet. | Solidity, React, IPFS |
 
 <p align="center">
-  <b>Check out more of my projects below 👇</b>
+  <b>Check out more of my projects below </b>
 </p>
 
 ---
@@ -56,5 +56,5 @@ Final year Computer Science student specializing in software development, artifi
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjiv-raghunandan&show_icons=true&theme=minimal&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjiv-raghunandan&show_icons=true&theme=minimal&hide_border=true&count_private=true" alt="stats graph" />
 </div>
