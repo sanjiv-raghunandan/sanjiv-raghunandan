@@ -6,7 +6,7 @@
 *Software Development | Distributed Systems | Artificial Intelligence | Network Security*
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/sanjiv-raghunandan">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:sanjivrnandan@gmail.com">
@@ -52,5 +52,5 @@ Final year Computer Science student specializing in software development, artifi
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=minimal&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjjv-raghunandan&show_icons=true&theme=minimal&hide_border=true" height="150" alt="stats graph" />
 </div>
