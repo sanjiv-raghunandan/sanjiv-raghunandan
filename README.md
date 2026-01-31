@@ -30,11 +30,11 @@ Final year Computer Science student specializing in software development, artifi
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[HyperCluster](YOUR_REPO_LINK)** | A decentralized framework for collaborative AI that shards Hugging Face models across Iroh P2P networks. | Python, Iroh, PyTorch |
-| **[AutoScene](YOUR_REPO_LINK)** | Automated 3D scene generation pipeline from satellite imagery using depth estimation and segmentation models. | Python, Detectron2, ZoeDepth |
-| **[Raft3D](YOUR_REPO_LINK)** | A distributed key-value store and print job manager implementing the Raft consensus algorithm for fault tolerance. | Go, REST API |
-| **[Plag Detect](YOUR_REPO_LINK)** | A plagiarism detection system analyzing code similarity across 1000+ files using JPlag and MVC architecture. | Java, JavaFX, Gradle |
-| **[MedChain](YOUR_REPO_LINK)** | Decentralized medical record management system with role-based access control on the Sepolia testnet. | Solidity, React, IPFS |
+| **HyperCluster** | A decentralized framework for collaborative AI that shards Hugging Face models across Iroh P2P networks. | Python, Iroh, PyTorch |
+| **AutoScene** | Automated 3D scene generation pipeline from satellite imagery using depth estimation and segmentation models. | Python, Detectron2, ZoeDepth |
+| **Raft3D** | A distributed key-value store and print job manager implementing the Raft consensus algorithm for fault tolerance. | Go, REST API |
+| **PlagDetect** | A plagiarism detection system analyzing code similarity across 1000+ files using JPlag and MVC architecture. | Java, JavaFX, Gradle |
+| **MedChain** | Decentralized medical record management system with role-based access control on the Sepolia testnet. | Solidity, React, IPFS |
 
 <p align="center">
   <b>Check out more of my projects below 👇</b>
