@@ -32,7 +32,6 @@ Final year Computer Science student specializing in software development, artifi
 | :--- | :--- | :--- |
 | **HyperCluster** | A decentralized framework for collaborative AI that shards Hugging Face models across Iroh P2P networks. | Python, Iroh, PyTorch |
 | **AutoScene** | Automated 3D scene generation pipeline from satellite imagery using depth estimation and segmentation models. | Python, Detectron2, ZoeDepth |
-| **Raft3D** | A distributed key-value store and print job manager implementing the Raft consensus algorithm for fault tolerance. | Go, REST API |
 | **PlagDetect** | A plagiarism detection system analyzing code similarity across 1000+ files using JPlag and MVC architecture. | Java, JavaFX, Gradle |
 | **MedChain** | Decentralized medical record management system with role-based access control on the Sepolia testnet. | Solidity, React, IPFS |
 
@@ -48,8 +47,6 @@ Final year Computer Science student specializing in software development, artifi
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
