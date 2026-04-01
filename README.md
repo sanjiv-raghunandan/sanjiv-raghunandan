@@ -22,7 +22,8 @@
 
 Final year Computer Science student specializing in software development, artificial intelligence, machine learning, distributed systems, and computer networking. Skilled in taking ideas from concept to reality by building robust, scalable applications. Looking for internships and full-time roles.
 
-- 📚 I recently published papers at **AAAI 2026** and **ICAART 2026**
+- 💼 Completed a software engineering internship at **L&T Technology Services**, gaining hands-on experience in real-world system development and collaboration
+- 📚 Published papers at **AAAI 2026** and **ICAART 2026**
 
 ---
 
