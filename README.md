@@ -33,8 +33,8 @@ Final year Computer Science student specializing in software development, artifi
 | :--- | :--- | :--- |
 | **HyperCluster** | A decentralized framework for collaborative AI that shards Hugging Face models across Iroh P2P networks. | Python, Iroh, PyTorch |
 | **AutoScene** | Automated 3D scene generation pipeline from satellite imagery using depth estimation and segmentation models. | Python, Detectron2, ZoeDepth |
-| **PlagDetect** | A plagiarism detection system analyzing code similarity across 1000+ files using JPlag and MVC architecture. | Java, JavaFX, Gradle |
-| **MedChain** | Decentralized medical record management system with role-based access control on the Sepolia testnet. | Solidity, React, IPFS |
+| **EduTube** | A RAG-based chatbot trained on youtube videos which answers queries. | Python, RAG, Ollama |
+| **StreamScale** | Event-driven microservices platform for viewing and uploading media. | Java, Spring Boot, Kafka |
 
 <p align="center">
   <b>Check out more of my projects below 👇</b>
