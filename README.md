@@ -20,10 +20,10 @@
 
 ### 👨‍💻 About Me
 
-Final year Computer Science student specializing in software development, artificial intelligence, machine learning, distributed systems, and computer networking. Skilled in taking ideas from concept to reality by building robust, scalable applications. Looking for internships and full-time roles.
+Computer Science graduate specializing in software development, artificial intelligence, machine learning, distributed systems, and computer networking. Skilled in taking ideas from concept to reality by building robust, scalable applications. Looking for internships and full-time roles.
 
-- 💼 Completed a software engineering internship at **L&T Technology Services**, gaining hands-on experience in real-world system development and collaboration
-- 📚 Published papers at **AAAI 2026** and **ICAART 2026**
+- 💼 Former **AI Embedded Solutions Intern at L&T Technology Services** and currently a **Platform Development Engineer at SeedlingLabs Private Limited**
+- 📚 Published papers at **DAIS 2026**, **AAAI 2026**, and **ICAART 2026**
 
 ---
 
